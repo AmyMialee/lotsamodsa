@@ -1,0 +1,13 @@
+name = "Lotsa Modsa"
+author = "Winsweep"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5a7f75129333df8777597b2171f29a3019a0127ccd4a939e5012e99a21e48763"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.11"

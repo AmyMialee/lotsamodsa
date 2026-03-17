@@ -1,0 +1,13 @@
+name = "Illager Warship"
+filename = "illagerwarship-1.0.2-fabric-1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tUpIHo95/versions/DhPZRnDE/illagerwarship-1.0.2-fabric-1.21.11.jar"
+hash-format = "sha512"
+hash = "a5dce2fe05dafe7660db259a9f7ff5d6354b52ab3394e90e57a7a5edea53516c1b5ff34481f3e1f621d1454a5bd00fb2ae2feca316f3be89b73484b80924fe15"
+
+[update]
+[update.modrinth]
+mod-id = "tUpIHo95"
+version = "DhPZRnDE"
