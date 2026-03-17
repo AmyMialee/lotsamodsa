@@ -161,6 +161,11 @@ hash = "b22f1d052eee2810fda73d850dd6f425a1214965e03a5a9dada421abfe74603b"
 metafile = true
 
 [[files]]
+file = "mods/frozenlib.pw.toml"
+hash = "9f6dfe61b6e234d227a086612f96c0695361a6b16f856b2e98998f4be7ad9958"
+metafile = true
+
+[[files]]
 file = "mods/illager-warship.pw.toml"
 hash = "30af4c726bfd6312a8f3d3d6c7fcd92d5c53e3aa0087dd969d3b02b990344ab5"
 metafile = true
