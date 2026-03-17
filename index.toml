@@ -91,6 +91,11 @@ hash = "07db8fce5d52ac799aeb81568c17db506608563511cd3432e8778be7069d67af"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "90bc25634410a59ed52bee4684101bca34170ba543f759d76a22fc1454cf128e"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
 metafile = true
