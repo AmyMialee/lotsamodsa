@@ -16,11 +16,6 @@ hash = "ca3ae2608987185814c118388f28057f729d866ee1abbc97f3650141d213fa35"
 metafile = true
 
 [[files]]
-file = "mods/basicallygraves.pw.toml"
-hash = "5b12b8ac7fb6662c7557539ef22943202f19fae50cf25384c6358e7d4710c307"
-metafile = true
-
-[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "cad0a9ff3fa91278e077049f8e8db3e51e8ccbaa1990f8291660e8bc088b548a"
 metafile = true
@@ -123,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/deimos.pw.toml"
 hash = "233608c96bd9d10636ece040af37a2bf7618d23f128da655fc035640e96cafbc"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "9b30e993f21da8f74807d67c218e0ac8e02cdeae368e7a743cbd5bfa625b0580"
 metafile = true
 
 [[files]]
@@ -246,6 +246,11 @@ hash = "ab6def9d98d3f5bf12f78845bdb770a19d5ca590c571e60184e537ffa14dcbee"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "62757d6d2b91ff8bc8e43d29a9b511724b07c45f72d60445f1c2341a5d2586c4"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "13369d7a10a47895f33629f000945d6bdf43f7b19a9ff1ca2ecfbc209c1ac431"
 metafile = true
@@ -318,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "cb61bf2f9e33b69b733489b7990de70ff3f4d4092d64074797fb2fdfa0cb5090"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "c1166e4664aa67501d4daafac5e69cb29094dd46942d35e64b4d5d8a0a54decd"
 metafile = true
 
 [[files]]
