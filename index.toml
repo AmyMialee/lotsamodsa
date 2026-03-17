@@ -16,6 +16,11 @@ hash = "ca3ae2608987185814c118388f28057f729d866ee1abbc97f3650141d213fa35"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ff1763afa21669a76a9ca65735944986ec4ef7a0d440b98ee2154aafa46356c8"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "cad0a9ff3fa91278e077049f8e8db3e51e8ccbaa1990f8291660e8bc088b548a"
 metafile = true
@@ -88,11 +93,6 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "07db8fce5d52ac799aeb81568c17db506608563511cd3432e8778be7069d67af"
-metafile = true
-
-[[files]]
-file = "mods/configured.pw.toml"
-hash = "90bc25634410a59ed52bee4684101bca34170ba543f759d76a22fc1454cf128e"
 metafile = true
 
 [[files]]
@@ -201,11 +201,6 @@ hash = "43d0efb769e7e622f754909073bde9110605d4c8078e81547e46774e48d7e50c"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "fce2b731ee4e4884f17248e9acfa591fa28e9b1f786272175b8b653aa9e6904b"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "71255e25b05b6529d6a2873e4db079b7b6541f58a78d872bc19478afcb0ffd1c"
 metafile = true
@@ -263,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "e539e6f1ae3fd100735d81fa369d5de6867598b1fef836708bf4b235ce2083d6"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "a62d7893eae9d5713dbe9c844b2bb9eba53157743c47b6e8abcbdd9075264cc9"
 metafile = true
 
 [[files]]
