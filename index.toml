@@ -180,6 +180,11 @@ hash = "30af4c726bfd6312a8f3d3d6c7fcd92d5c53e3aa0087dd969d3b02b990344ab5"
 metafile = true
 
 [[files]]
+file = "mods/inferno.pw.toml"
+hash = "05c4bed3516121775f6330ef185cc027ff29952bb829a0783580ed17bd3c7d99"
+metafile = true
+
+[[files]]
 file = "mods/invmove.pw.toml"
 hash = "7557b57fc8b301bb61bdc9c6efc1e1e020a59a02562166754be6e9c6fc42188d"
 metafile = true
@@ -220,6 +225,11 @@ hash = "ea89277e095f61f86592bac8b8cad7835bd1e05e6924e8c97fa7aa3e568eaf5a"
 metafile = true
 
 [[files]]
+file = "mods/mariposa.pw.toml"
+hash = "7e0cd1f45357dc1c51409f47a17a39a7c4c4f7e3b4b04563a613eadb609b4105"
+metafile = true
+
+[[files]]
 file = "mods/minihud.pw.toml"
 hash = "537b0bf7ad2508c0f95f116768aeb9e7149c98660c1afe76b045800df172cd16"
 metafile = true
@@ -237,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "44f00c1a0e3d4f8717e805c30c862a597e7856472e72637800fd1a38d73fbd08"
+metafile = true
+
+[[files]]
+file = "mods/nycto.pw.toml"
+hash = "1e5bf2b95ac09344fbe381a9f259a7a90a0989f39f16879fbb8ffc5d2f562587"
 metafile = true
 
 [[files]]
@@ -322,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/superb-steeds.pw.toml"
 hash = "b48f74fff350f7e67d1c18186af4d44349d8cd442a556d2e21a1fe9be7d804ec"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "a11751cee1923f2e1ee313671b5bea0259dda32d5d20cd65b573f87b338577ed"
 metafile = true
 
 [[files]]
