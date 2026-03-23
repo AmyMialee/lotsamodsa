@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/invmove.json"
+hash = "cfa50d19d66ec8e36e879c69e0767400c3df0aa1bfd754c10abb3fd1c8c12cc2"
+
+[[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
 hash = "06bbba7c3300af8d746c3a5ec1399121ef76eaf8b5ed6c86aed18c0ad2788e5f"
 metafile = true
