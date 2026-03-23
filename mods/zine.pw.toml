@@ -1,0 +1,13 @@
+name = "Zine"
+filename = "zine-1.8.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LKEoCBc7/versions/7NzRfQyc/zine-1.8.2.jar"
+hash-format = "sha512"
+hash = "50eeb57f3838a2dbbc8ceb38cd16fbbad0b2a9693d57b1a267a42a6813ce2bf5d76042cb97244639f957c987815498e8c0614cc9a0395d530b750abf4bcc2957"
+
+[update]
+[update.modrinth]
+mod-id = "LKEoCBc7"
+version = "7NzRfQyc"

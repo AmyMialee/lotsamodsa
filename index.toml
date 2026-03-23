@@ -55,6 +55,11 @@ hash = "5e097f95b8818e0999b4e867351745441f90c9bcf2a9c68cd19d5d708da4a4a1"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "dc6e1db6a0991499196ca750529e3fec4a1fa7f537c3b37473fb66101e87b6d8"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "fbb61854650a7cdf7eb2244e0599bae2f0541864a9b7cf74f8272972e6bdb18e"
 metafile = true
@@ -367,4 +372,9 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "1113d43c39a9866252a83ee50d16aa3ce6fcf749acd84d58b05ca09eba4d187b"
+metafile = true
+
+[[files]]
+file = "mods/zine.pw.toml"
+hash = "8d6188123ee06be98311a7d37e3201032a6c5fc620b58bfc8afd26b5a45f7514"
 metafile = true
