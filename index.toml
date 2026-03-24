@@ -130,6 +130,11 @@ hash = "06ecf8909f6baf4ab229bad6e6490b79fa26be7263abc24ca3d3d50102f239eb"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "73c73a2785d636ad4cfd93e8aae02887a88adf0afb707fd7b19e075e5c2b1223"
+metafile = true
+
+[[files]]
 file = "mods/deimos.pw.toml"
 hash = "233608c96bd9d10636ece040af37a2bf7618d23f128da655fc035640e96cafbc"
 metafile = true
@@ -312,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/scribble.pw.toml"
 hash = "8415fe3e967aa3f5bddd9724ad0b4997317e92d67d49f89d737344d39aa9c17e"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "7e5ee84c0ffd1d2a8ac5b05bade2a27fdc2e73caa431f7860ec440e904c66ae0"
 metafile = true
 
 [[files]]
