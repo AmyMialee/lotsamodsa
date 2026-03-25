@@ -50,11 +50,6 @@ hash = "81389c89dc543dd9dc0823c9d6f8d53ee87a6f2d6ddb15905b747099f2a74cb0"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "5e097f95b8818e0999b4e867351745441f90c9bcf2a9c68cd19d5d708da4a4a1"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "dc6e1db6a0991499196ca750529e3fec4a1fa7f537c3b37473fb66101e87b6d8"
 metafile = true
