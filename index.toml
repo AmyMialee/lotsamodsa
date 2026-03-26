@@ -25,6 +25,11 @@ hash = "ff1763afa21669a76a9ca65735944986ec4ef7a0d440b98ee2154aafa46356c8"
 metafile = true
 
 [[files]]
+file = "mods/badstdout.pw.toml"
+hash = "b2f2254fda825a08d1d41a6dcbeada190c772fda4e06ee06c1a8e6a6c7be51f7"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "cad0a9ff3fa91278e077049f8e8db3e51e8ccbaa1990f8291660e8bc088b548a"
 metafile = true
@@ -212,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "43d0efb769e7e622f754909073bde9110605d4c8078e81547e46774e48d7e50c"
+metafile = true
+
+[[files]]
+file = "mods/kaffees_dual_ride_(updated).pw.toml"
+hash = "ab934dff7fd5dc43da5b674f078ee8f2b30c8a5b8d0bccf0bc994eb050d1debc"
 metafile = true
 
 [[files]]
