@@ -30,6 +30,11 @@ hash = "b2f2254fda825a08d1d41a6dcbeada190c772fda4e06ee06c1a8e6a6c7be51f7"
 metafile = true
 
 [[files]]
+file = "mods/beautify-refabricated.pw.toml"
+hash = "416710d4d7d4b6530919c582c0cbaebb94cc8bb443ce52fc377e197780184d37"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "cad0a9ff3fa91278e077049f8e8db3e51e8ccbaa1990f8291660e8bc088b548a"
 metafile = true
