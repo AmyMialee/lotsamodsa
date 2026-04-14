@@ -110,6 +110,11 @@ hash = "07db8fce5d52ac799aeb81568c17db506608563511cd3432e8778be7069d67af"
 metafile = true
 
 [[files]]
+file = "mods/connectiblechains.pw.toml"
+hash = "4770a4eeea89b0dbd208491d31767f73cc0cea82496fedeeb045736c415c2947"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
 metafile = true
@@ -397,4 +402,9 @@ metafile = true
 [[files]]
 file = "mods/zine.pw.toml"
 hash = "8d6188123ee06be98311a7d37e3201032a6c5fc620b58bfc8afd26b5a45f7514"
+metafile = true
+
+[[files]]
+file = "mods/zipline.pw.toml"
+hash = "16e9e53212aacd5bdbd35f6ed7a3baedd1ddbb93654aad46661d353cfd8ad37c"
 metafile = true
